@@ -1,0 +1,20 @@
+{
+  "name": "tat-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "test",
+    "automation"
+  ],
+  "author": "fernando pimentel",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.4.1"
+  }
+}
